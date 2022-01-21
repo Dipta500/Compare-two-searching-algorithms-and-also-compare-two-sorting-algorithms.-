@@ -1,0 +1,2 @@
+# Compare-two-searching-algorithms-and-also-compare-two-sorting-algorithms.-
+Write a program using C++ to compare those two searching algorithms and also compare two sorting algorithms.  You need to modify those codes in the book/slides to have some counters to count the number of  comparisons and number of swaps. In the main function, you should have an ordered array of 120 integers in order to test searching algorithms, and the other two identical arrays of 120 integers not in  order to test sorting algorithms. Display all counters in the main functions.
